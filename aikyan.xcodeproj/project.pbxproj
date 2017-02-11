@@ -14,6 +14,7 @@
 		3F7D05B61E0D2E3700D74A66 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F7D05B41E0D2E3700D74A66 /* LaunchScreen.storyboard */; };
 		3F7D05C11E0D2E3700D74A66 /* aikyanTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F7D05C01E0D2E3700D74A66 /* aikyanTests.swift */; };
 		3F7D05CC1E0D2E3700D74A66 /* aikyanUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F7D05CB1E0D2E3700D74A66 /* aikyanUITests.swift */; };
+		3F7D05DA1E0D2E8E00D74A66 /* Map1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F7D05D91E0D2E8E00D74A66 /* Map1ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		3F7D05C71E0D2E3700D74A66 /* aikyanUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = aikyanUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F7D05CB1E0D2E3700D74A66 /* aikyanUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = aikyanUITests.swift; sourceTree = "<group>"; };
 		3F7D05CD1E0D2E3700D74A66 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F7D05D91E0D2E8E00D74A66 /* Map1ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Map1ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				3F7D05AB1E0D2E3600D74A66 /* AppDelegate.swift */,
 				3F7D05AD1E0D2E3600D74A66 /* ViewController.swift */,
+				3F7D05D91E0D2E8E00D74A66 /* Map1ViewController.swift */,
 				3F7D05AF1E0D2E3600D74A66 /* Main.storyboard */,
 				3F7D05B21E0D2E3700D74A66 /* Assets.xcassets */,
 				3F7D05B41E0D2E3700D74A66 /* LaunchScreen.storyboard */,
@@ -257,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3F7D05AE1E0D2E3600D74A66 /* ViewController.swift in Sources */,
+				3F7D05DA1E0D2E8E00D74A66 /* Map1ViewController.swift in Sources */,
 				3F7D05AC1E0D2E3600D74A66 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
